@@ -1,5 +1,4 @@
-# ETL.BigQuery.Comercial
-### Processo de ETL de dados comercial para uma base de dados no BigQuery.
+## Processo de ETL para uma base de dados no BigQuery.
 
 ![alt text](imgs/ETL-transformed.png)
 
